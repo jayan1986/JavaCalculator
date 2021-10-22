@@ -30,10 +30,11 @@ public class Calculator {
 		return second-first;
 	}
 	
-	// Product
+	// Product krishna add bug on 220ct21
 	public long mulFucn(long first, long second){
 		
-		return first*second;
+		return first/second;
+
 	}
 	
 	
